@@ -21,7 +21,7 @@
 3. Atleast Make some python projects using Frameworks such as Flask with deployment Eg: Web Scrapping Projects  
 
 ### What's New In Python 3.13.0
-[https://docs.python.org/release/3.12.0/](https://docs.python.org/3/whatsnew/3.13.html)
+[https://docs.python.org/release/3.13.0/](https://docs.python.org/3/whatsnew/3.13.html)
 
 ## 2. Statistics
 ![1_jidbi1--elimaTb3B2HT5w](https://user-images.githubusercontent.com/20041231/211717931-134aaac2-a8fc-445b-93a6-ae241c66ba5b.png)
